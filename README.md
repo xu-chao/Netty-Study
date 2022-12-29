@@ -1,5 +1,5 @@
-### sample-netty
-整合Netty
+### study-netty
+Netty学习
 
 #### 依赖
 ```
@@ -19,4 +19,4 @@
 - http://localhost:17001/xuchao-netty/swagger-ui.html
 - http://localhost:17001/swagger-ui/index.html
 
-deviceNo填d001，可通过http接口测试发送数据给客户端及断开客户端连接
+client端口号，可通过http接口测试发送数据给客户端及断开客户端连接
